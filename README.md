@@ -2,7 +2,7 @@
 
 Mi proyecto recoge dos bases de datos, una de aviones y otra de accidentes
 
-Se encuentran divididos en dos .js una accidentes y la otra Aviones
+Se encuentran divididos en dos .js una accidentes y la otra aviones
 
 Con el proposito de realizar diferentes consultas con los operadores aprendidos
 
